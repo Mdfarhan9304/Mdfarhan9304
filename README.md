@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://farhan-portfolio-website.netlify.app/](https://farhan-portfolio-website.netlify.app/)
-
 - 📫 How to reach me **mdfarhan9304@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
