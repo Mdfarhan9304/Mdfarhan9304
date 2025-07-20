@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DSA problem solving**
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently into **Full stack development**
 
 - 📫 How to reach me **mdfarhan9304@gmail.com**
 
